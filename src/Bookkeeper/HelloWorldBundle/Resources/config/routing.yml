@@ -1,3 +1,8 @@
-bookkeeper_hello_world_homepage:
-    path:     /
-    defaults: { _controller: BookkeeperHelloWorldBundle:Default:index }
+# bookkeeper_hello_world_homepage:
+#     path:     /
+#     defaults: { _controller: BookkeeperHelloWorldBundle:Default:index }
+
+
+bookkeeper_hello_world:
+  path: /helloworld 
+  defaults:{_controller:BookkeeperHelloWorldBundle:Default:index }
