@@ -6,7 +6,7 @@
     "autoload": {
         "psr-4": {
             "AppBundle\\": "src/AppBundle",
-            "BookkeeperBundle\\": "src/BookkeeperBundle"
+            "Bookkeeper\\": "src/Bookkeeper"
         },
         "classmap": [ "app/AppKernel.php", "app/AppCache.php" ]
     },

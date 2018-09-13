@@ -5,4 +5,4 @@
 
 bookkeeper_hello_world:
   path: /helloworld 
-  defaults:{_controller:BookkeeperHelloWorldBundle:Default:index }
+  defaults: {_controller:BookkeeperHelloWorldBundle:Default:index }
